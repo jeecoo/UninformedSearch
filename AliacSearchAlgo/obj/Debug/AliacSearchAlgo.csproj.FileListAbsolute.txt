@@ -1,0 +1,9 @@
+C:\Users\Jeecoo\OneDrive\Documents\~PANGSKUYLA\3RD YEAR - 1ST SEMESTER\CS345 Intelligent Systems 1\SearchAlgorithm\AliacSearchAlgo\bin\Debug\AliacSearchAlgo.exe
+C:\Users\Jeecoo\OneDrive\Documents\~PANGSKUYLA\3RD YEAR - 1ST SEMESTER\CS345 Intelligent Systems 1\SearchAlgorithm\AliacSearchAlgo\bin\Debug\AliacSearchAlgo.pdb
+C:\Users\Jeecoo\OneDrive\Documents\~PANGSKUYLA\3RD YEAR - 1ST SEMESTER\CS345 Intelligent Systems 1\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.AssemblyReference.cache
+C:\Users\Jeecoo\OneDrive\Documents\~PANGSKUYLA\3RD YEAR - 1ST SEMESTER\CS345 Intelligent Systems 1\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.Form1.resources
+C:\Users\Jeecoo\OneDrive\Documents\~PANGSKUYLA\3RD YEAR - 1ST SEMESTER\CS345 Intelligent Systems 1\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.Properties.Resources.resources
+C:\Users\Jeecoo\OneDrive\Documents\~PANGSKUYLA\3RD YEAR - 1ST SEMESTER\CS345 Intelligent Systems 1\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.GenerateResource.cache
+C:\Users\Jeecoo\OneDrive\Documents\~PANGSKUYLA\3RD YEAR - 1ST SEMESTER\CS345 Intelligent Systems 1\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Jeecoo\OneDrive\Documents\~PANGSKUYLA\3RD YEAR - 1ST SEMESTER\CS345 Intelligent Systems 1\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.exe
+C:\Users\Jeecoo\OneDrive\Documents\~PANGSKUYLA\3RD YEAR - 1ST SEMESTER\CS345 Intelligent Systems 1\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.pdb
